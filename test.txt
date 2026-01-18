@@ -1,0 +1,4 @@
+The following constraints of this code has to be tested:
+1- Branch is working fine or not
+2- Jenkins is talking to github or not
+3- Job is working fine or not
